@@ -4,19 +4,19 @@
 This project features an interactive implementation of the classic Dots and Boxes game with an AI opponent powered by alpha-beta pruning. The AI is designed to make smart move predictions, offering a challenging gameplay experience.
 
 ## Key Features
-- **Pathfinding Algorithms:** Utilizes A*, BFS, and Greedy Best-First Search for optimized pathfinding.
-- **Threading:** Incorporates threading to enhance performance and responsiveness.
-- **Custom Mazes:** Features custom mazes with varying levels of difficulty.
-- **Strategic AI:** Demonstrates AI's capability to solve real-time strategic challenges.
+- **Alpha-Beta Pruning:** Optimized AI performance through advanced pruning techniques.
+- **Interactive Gameplay:** Enjoy a dynamic and engaging Dots and Boxes experience.
+- **Smart Move Predictions:** The AI opponent uses strategic algorithms to make intelligent moves.
+- **Educational Insight:** Demonstrates practical applications of AI and game theory.
 
 ## How to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/AgentSnake.git
+    git clone https://github.com/yourusername/Square-Dots-and-Boxes.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd AgentSnake
+    cd Square-Dots-and-Boxes
     ```
 3. Install the required dependencies:
     ```bash
